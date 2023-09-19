@@ -1,5 +1,12 @@
-### Hi there 👋
+### Bonjour !
 
+Je suis Nicolas Luciani, actuellement étudiant en Master 2 Informatique dans le parcours IMAGINE (Image, Jeux, 3D, IA) à l'Université de Montpellier.\
+Je travaille également en tant que Game Master en Escape Game. 
+
+Fasciné par l'informatique graphique et passioné de jeux, j'ai l'opportunité de travailler sur plusieurs projets durant mes études.\
+Jetez-y un oeil sur mon profil ! 
+
+Actuellement, j'apprécie passer mon temps à apprendre l'utilisation du moteur Unreal Engine. J'approfondis également mes connaissances en C++ et en programmation graphique avec OpenGL. 
 <!--
 **nicolas-lcn/nicolas-lcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
